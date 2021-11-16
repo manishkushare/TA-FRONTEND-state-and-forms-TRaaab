@@ -1,0 +1,10 @@
+{
+    "version": 3,
+    "mappings": "ACAA,SAAS,CAAT,IAAS;AACT,SAAS,CAAT,UAAS;AACT,SAAS,CAAT,SAAS;AAET,AAAA,OAAO,CAAC;EACN,gBAAgB,EAAE,GAAG;EACrB,KAAK,EAAE,KAAK;CACb;;AAED,AAAA,SAAS,CAAA;EACP,gBAAgB,EAAE,MAAM;EACxB,KAAK,EAAE,KAAK;CACb",
+    "sources": [
+        "index.scss",
+        "_tailwind.scss"
+    ],
+    "names": [],
+    "file": "index.css"
+}

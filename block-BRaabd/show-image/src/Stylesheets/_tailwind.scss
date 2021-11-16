@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.active {
+  background-color: red;
+  color: white;
+}
+
+.inactive{
+  background-color: orange;
+  color: beige;
+}
