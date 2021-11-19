@@ -1,0 +1,11 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+.margin-auto {
+  margin: 0 auto;
+}
+
+.bottom-border {
+  border-bottom: 1px solid black;
+}
+/*# sourceMappingURL=index.css.map */

@@ -1,0 +1,11 @@
+{
+    "version": 3,
+    "mappings": "ACAA,SAAS,CAAT,IAAS;AACT,SAAS,CAAT,UAAS;AACT,SAAS,CAAT,SAAS;ACFT,AAAA,YAAY,CAAA;EACV,MAAM,EAAE,MAAM;CACf;;AACD,AAAA,cAAc,CAAA;EACZ,aAAa,EAAE,eAAe;CAE/B",
+    "sources": [
+        "index.scss",
+        "_tailwind.scss",
+        "_general.scss"
+    ],
+    "names": [],
+    "file": "index.css"
+}
