@@ -1,0 +1,42 @@
+[
+  {
+   "font-family" :"'Roboto', sans-serif",
+   "font": "Roboto"
+  },
+  {
+    "font-family": "'Estonia', cursive",
+    "font": "Estonia"
+  },
+  {
+    "font-family": "'Comforter Brush'",
+    "font": "Comforter"
+  },
+  {
+    "font-family":"Titillium Web', sans-serif",
+    "font":"Titillium Web"
+  },
+  {
+    "font-family": "'Poppins', sans-serif",
+    "font":"Poppins"
+  },
+  {
+    "font-family": "'Outfit', sans-serif",
+    "font":"Outfit"
+  },
+  {
+    "font-family":"'Open Sans', sans-serif",
+    "font":"Open Sans"
+  },
+  {
+    "font-family":"'M PLUS 2', sans-serif",
+    "font": "M PLUS 2"
+  },
+  {
+    "font-family":"'Montserrat', sans-serif",
+    "font": "Montserrat"
+  },
+  {
+    "font-family":"'Ubuntu', sans-serif",
+    "font":"Ubuntu"
+  }
+]
