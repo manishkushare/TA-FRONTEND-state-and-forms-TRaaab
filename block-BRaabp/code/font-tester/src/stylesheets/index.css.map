@@ -1,0 +1,11 @@
+{
+    "version": 3,
+    "mappings": "ACAA,SAAS,CAAT,IAAS;AACT,SAAS,CAAT,UAAS;AACT,SAAS,CAAT,SAAS;ACFT,AAAA,YAAY,CAAA;EACV,MAAM,EAAE,eAAe;CACxB",
+    "sources": [
+        "index.scss",
+        "_tailwind.scss",
+        "_input-section.scss"
+    ],
+    "names": [],
+    "file": "index.css"
+}
