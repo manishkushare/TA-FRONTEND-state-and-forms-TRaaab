@@ -1,0 +1,39 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+._w-5 {
+  width: 5%;
+}
+
+._w-15 {
+  width: 15%;
+}
+
+._border-circle {
+  border-radius: 50%;
+}
+
+.active {
+  background-color: aqua;
+}
+
+._white {
+  color: white;
+}
+
+.legend {
+  font-size: 2rem;
+}
+
+._min-w-20 {
+  min-width: 30%;
+}
+
+._red {
+  color: red;
+}
+
+._black {
+  color: black;
+}
+/*# sourceMappingURL=index.css.map */
